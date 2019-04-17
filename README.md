@@ -19,7 +19,7 @@
 ### 应用架构
 > 人脸识别应用系统架构
 
-![Alt text](20190417192312.png)
-![Alt text](20190417192313.png)
-![Alt text](20190417192349.png)
-![Alt text](20190417192413.png)
+![Alt text](https://cdn.jsdelivr.net/gh/belilau/blog-cdn@1.0.5/images/架构图/20190417192312.png)
+![Alt text](https://cdn.jsdelivr.net/gh/belilau/blog-cdn@1.0.5/images/架构图/20190417192313.png)
+![Alt text](https://cdn.jsdelivr.net/gh/belilau/blog-cdn@1.0.5/images/架构图/20190417192349.png)
+![Alt text](https://cdn.jsdelivr.net/gh/belilau/blog-cdn@1.0.5/images/架构图/20190417192413.png)
