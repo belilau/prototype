@@ -15,6 +15,12 @@
 
 [智慧人像终端管理平台](https://belilau.github.io/prototype/智慧人像终端管理平台/)
 
+[人证访客机](https://belilau.github.io/prototype/人证访客机/)
+
+[动态人脸识别系统](https://belilau.github.io/prototype/动态人脸识别系统/)
+
+[公安大数据实战应用平台](https://belilau.github.io/prototype/公安大数据实战应用平台/)
+
 ---
 ### 应用架构
 > 人脸识别应用系统架构
