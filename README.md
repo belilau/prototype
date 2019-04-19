@@ -29,3 +29,5 @@
 ![Alt text](https://cdn.jsdelivr.net/gh/belilau/blog-cdn@1.0.5/images/架构图/20190417192313.png)
 ![Alt text](https://cdn.jsdelivr.net/gh/belilau/blog-cdn@1.0.5/images/架构图/20190417192349.png)
 ![Alt text](https://cdn.jsdelivr.net/gh/belilau/blog-cdn@1.0.5/images/架构图/20190417192413.png)
+![Alt text](https://cdn.jsdelivr.net/gh/belilau/blog-cdn@1.0.5/images/部署图/跨网数据推送示意图.jpg)
+![Alt text](https://cdn.jsdelivr.net/gh/belilau/blog-cdn@1.0.5/images/部署图/人脸采集数据互联网入公安内网架构拓扑图.jpg)
