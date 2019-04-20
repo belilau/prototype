@@ -1,25 +1,28 @@
 ### 原型
 > 已上线成品原型
 
-[基础官网第一版](https://belilau.github.io/prototype/猿巨人官网第一版/)
+[基础官网第一版](https://belilau.github.io/prototype/Home/)
 
 
-[锁控二维码](https://belilau.github.io/prototype/锁控二维码/)
+[锁控二维码](https://belilau.github.io/prototype/QRCode/)
 
 
-[生产批次管控系统](https://belilau.github.io/prototype/生产批次管控系统/)
+[生产批次管控系统](https://belilau.github.io/prototype/ODG/)
 
 
-[人证核验数据平台](https://belilau.github.io/prototype/人证核验数据平台/)
+[人证核验数据平台](https://belilau.github.io/prototype/F701/)
 
 
-[智慧人像终端管理平台](https://belilau.github.io/prototype/智慧人像终端管理平台/)
+[智慧人像终端管理平台](https://belilau.github.io/prototype/OFM1000/)
 
-[人证访客机](https://belilau.github.io/prototype/人证访客机/)
 
-[动态人脸识别系统](https://belilau.github.io/prototype/动态人脸识别系统/)
+[人证访客机](https://belilau.github.io/prototype/F200/)
 
-[公安大数据实战应用平台](https://belilau.github.io/prototype/公安大数据实战应用平台/)
+
+[动态人脸识别系统](https://belilau.github.io/prototype/PT100/)
+
+
+[公安大数据实战应用平台](https://belilau.github.io/prototype/PT%20Cloud/)
 
 ---
 ### 应用架构
